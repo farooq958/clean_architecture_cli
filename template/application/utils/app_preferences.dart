@@ -1,13 +1,13 @@
 import 'dart:convert';
 
 
-import 'package:clean_architecture_cli/data/Resources/Theme/app_theme.dart';
 
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../data/app_data/app_locale.dart';
 import '../../data/app_data/prefs_keys.dart';
+import '../../data/resources/theme/app_theme.dart';
 
 class SharedPrefs  {
   // SharedPrefs._();

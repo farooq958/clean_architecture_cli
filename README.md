@@ -13,10 +13,10 @@ To install `clean_architecture_cli`, add the following dependency to your `pubsp
 ##  Usage
 You can use the CLI tool to generate folders and update the pubspec.yaml file with the following commands:
 
-dart run clean_architecture_cli --create --update-pubspec
+dart run my_clean_cli --create --update-pubspec
 
 
 ```yaml
 dev_dependencies:
-  clean_architecture_cli: ^1.0.0
+  my_clean_cli: ^1.0.0
 

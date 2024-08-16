@@ -1,5 +1,0 @@
-- Api
-- Sockets
-- Connectivity
-- Google
-- And More like that
