@@ -1,6 +1,6 @@
 # clean_architecture_cli
 
-`clean_architecture_cli` is a Dart CLI tool designed to help developers create clean architecture folder structures and automatically update the `pubspec.yaml` file in Flutter projects.
+`clean_architecture_cli` is a Dart CLI tool designed to help developers create clean architecture folder structures and some common widgets and automatically update the `pubspec.yaml` file in Flutter projects.
 
 ## Features
 
@@ -9,14 +9,16 @@
 
 ## Installation
 
-To install `clean_architecture_cli`, add the following dependency to your `pubspec.yaml`:
+To install `my_clean_cli`, add the following dependency to your `pubspec.yaml`:
 ##  Usage
 You can use the CLI tool to generate folders and update the pubspec.yaml file with the following commands:
 
+to generate the clean architecture folder structure:
+```bash
 dart run my_clean_cli --create --update-pubspec
-
+```
 
 ```yaml
 dev_dependencies:
-  my_clean_cli: ^1.0.0
-
+  my_clean_cli: ^1.0.8
+```

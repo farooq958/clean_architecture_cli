@@ -1,66 +1,29 @@
 name: my_clean_cli
 description: A Dart CLI tool for generating clean architecture folders and updating pubspec.yaml in Flutter projects.
-version: 1.0.0
+version: 1.0.8
+publish_to: pub.dev
 homepage: https://github.com/farooq958/clean_architecture_cli
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/farooq958/clean_architecture_cli
 
 environment:
   sdk: ^3.5.0
 
 # Add regular dependencies here.
 dependencies:
-  args: ^2.4.2
-  cached_network_image: ^3.3.0
-  carousel_slider_plus: ^7.0.0
-  connectivity_plus: ^6.0.3
-  country_picker: ^2.0.26
-  dio: ^5.5.0+1
-  dio_cache_interceptor: ^3.5.0
-  dotted_border: ^2.1.0
-  drop_down_search_field: ^1.0.4
-  #firebase_auth: ^5.1.2
-  #firebase_core: ^3.3.0
-  #firebase_messaging: ^15.0.4
-  flutter_animate: ^4.5.0
-  flutter_bloc: ^8.1.2
-  flutter_contacts: ^1.1.9
-  flutter_gen: ^5.4.0
-  flutter_launcher_icons: ^0.13.1
-  flutter_local_notifications: ^17.1.0
-  flutter_localizations:
-   sdk: flutter
-  flutter_quick_router: ^0.0.2
-  flutter_svg: ^2.0.10+1
-  gif_view: ^0.4.3
-  google_fonts: ^6.2.1
-  google_maps_flutter: ^2.7.0
-  grouped_list: ^6.0.0
+  args: ^2.5.0
   http: ^1.2.2
-  image_cropper: ^1.4.0
-  image_picker: ^0.8.4+4
-  file_picker: ^8.1.2
-  lottie: ^3.1.2
-  path_provider: ^2.0.11
-  permission_handler: ^11.3.1
-  pinput: ^5.0.0
-  provider: ^6.0.0
-  quick_router: ^1.0.1
-  scrollable_positioned_list: ^0.3.8
-  share_it: ^0.7.0
-  share_plus: ^10.0.2
-  shared_preferences: ^2.0.0
-  syncfusion_flutter_datepicker: ^26.1.41
-  video_player: ^2.9.1
+  archive: ^3.6.1
+  path: ^1.9.0
   yaml: ^3.1.2
   yaml_edit: ^2.2.1
-  intl: ^0.19.0
+
 
 
 dev_dependencies:
   lints: ^4.0.0
   test: ^1.24.0
 executables:
-  clean_architecture_cli: bin/my_clean_cli.dart
+  clean_architecture_cli: my_clean_cli
 
 flutter:
   assets:

@@ -61,7 +61,7 @@
         <entry key="cached_network_image">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/cached_network_image-3.4.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/cached_network_image-3.4.1/lib" />
             </list>
           </value>
         </entry>
@@ -75,7 +75,7 @@
         <entry key="cached_network_image_web">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/cached_network_image_web-1.3.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/cached_network_image_web-1.3.1/lib" />
             </list>
           </value>
         </entry>
@@ -796,7 +796,7 @@
         <entry key="permission_handler_android">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/permission_handler_android-12.0.11/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/permission_handler_android-12.0.12/lib" />
             </list>
           </value>
         </entry>
@@ -1076,7 +1076,7 @@
         <entry key="sqflite_common">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/sqflite_common-2.5.4+1/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/sqflite_common-2.5.4+2/lib" />
             </list>
           </value>
         </entry>
@@ -1377,9 +1377,9 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/async-2.11.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/bloc-8.1.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/cached_network_image-3.4.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/cached_network_image-3.4.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/cached_network_image_platform_interface-4.1.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/cached_network_image_web-1.3.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/cached_network_image_web-1.3.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/carousel_slider_plus-7.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/characters-1.3.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/checked_yaml-2.0.3/lib" />
@@ -1479,7 +1479,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/permission_handler-11.3.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/permission_handler_android-12.0.11/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/permission_handler_android-12.0.12/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/permission_handler_apple-9.4.5/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/permission_handler_html-0.1.3+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/permission_handler_platform_interface-4.2.2/lib" />
@@ -1518,7 +1518,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/source_span-1.10.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/sprintf-7.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/sqflite-2.3.3+1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/sqflite_common-2.5.4+1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/sqflite_common-2.5.4+2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/stack_trace-1.11.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/stream_channel-2.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/stream_transform-2.1.0/lib" />
