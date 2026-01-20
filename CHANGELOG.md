@@ -6,7 +6,7 @@
 
 ## 1.0.0
 
-- Initial release of `clean_architecture_cli`.
+- Initial release of `my_clean_cli`.
 - Added functionality to generate predefined folder structures.
 - Added functionality to update the `pubspec.yaml` file with dependencies and assets.
 
@@ -19,3 +19,6 @@
 ## 1.0.8
 - Updated functionality to generate predefined widgets.
 - Updated functionality to generate pubspec dependency.
+
+## 1.0.9
+– Added more flags for custom repo also check the readme.md 
