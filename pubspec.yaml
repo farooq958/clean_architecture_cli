@@ -1,7 +1,6 @@
 name: my_clean_cli
 description: A Dart CLI tool for generating clean architecture folders and updating pubspec.yaml in Flutter projects.
 version: 1.0.9
-publish_to: https://pub.dev/packages/my_clean_cli
 homepage: https://github.com/farooq958/my_clean_cli
 repository: https://github.com/farooq958/my_clean_cli
 
